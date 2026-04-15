@@ -59,11 +59,3 @@ This project was developed as part of the **Data Structures and Algorithms** cou
 | Circular Linked List  | Inspector rotation       |
 | Single Linked List    | Item history             |
 | Double Linked List    | Warehouse storage        |
-
----
-
-## ▶️ How to Run
-
-1. Compile the program:
-```bash
-g++ main.cpp -o warehouse
